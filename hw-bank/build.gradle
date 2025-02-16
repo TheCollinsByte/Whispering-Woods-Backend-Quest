@@ -8,7 +8,11 @@ repositories {
 }
 
 dependencies {
-    implementation libs.guava
+    implementation libs.slfj;
+
+    // Logback
+    runtimeOnly libs.logback.classic
+    runtimeOnly project(':logback-config')
 
     testRuntimeOnly libs.junit.jupiter.engine
     testImplementation libs.junit.jupiter.api
