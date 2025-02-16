@@ -1,10 +1,10 @@
 [versions]
-slfj = "2.0.9"
+slf4j = "2.0.16"
 junit-jupiter = "5.11.4"
-logback = "1.4.11"
+logback = "1.5.16"
 
 [libraries]
-slfj = { module = "org.slf4j:slf4j-api", version.ref = "slfj" }
+slfj = { module = "org.slf4j:slf4j-api", version.ref = "slf4j" }
 logback-classic = { module = "ch.qos.logback:logback-classic", version.ref = "logback" }
 junit-jupiter-api = { module = "org.junit.jupiter:junit-jupiter-api", version.ref = "junit-jupiter" }
 junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version.ref = "junit-jupiter" }
