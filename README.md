@@ -66,7 +66,7 @@ To explore the content of this repository:
     - <b>assignments/</b> Contains weekly assignments with problem statements and solutions.
 
 ## About the Instructor
-Chinmay Anand is a backend engineer with over five years of experience. Currently based in Japan, he works for one of the country's largest banks, utilizing Java and Kotlin in his daily tasks. Chinmay is passionate about real-time systems and has a diverse background, having collaborated with various Japanese companies and worked with multiple programming languages, including Go, C++, TypeScript, JavaScript, and PHP.
+[Chinmay Anand](https://www.udemy.com/user/chinmayanand2/) is a backend engineer with over five years of experience. Currently based in Japan, he works for one of the country's largest banks, utilizing Java and Kotlin in his daily tasks. Chinmay is passionate about real-time systems and has a diverse background, having collaborated with various Japanese companies and worked with multiple programming languages, including Go, C++, TypeScript, JavaScript, and PHP.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
