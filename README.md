@@ -78,7 +78,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
 <a href="https://github.com/TheCollinsByte/Whispering-Woods-Backend-Quest">Source</a>
-<a href="https://github.com/TheCollinsByte/Whispering-Woods-Backend-Quest">Source</a>
 | <a href="https://x.com/TheCollinsByte" target="_blank">Twitter </a>
 | <a href="http://www.linkedin.com/in/collins-boniface" target="_blank">LinkedIn </a>
 | <a href="mailto:collo@fastmail.com">Email</a>
