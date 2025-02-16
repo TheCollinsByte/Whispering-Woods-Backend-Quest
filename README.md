@@ -35,12 +35,12 @@ Notes: Personal observations, explanations, and summaries of key topics covered 
 
 The course is structured to provide a deep understanding of Java backend development, covering topics such as:
 
-- Core Java Fundamentals: Object-Oriented Programming (OOP) principles, exception handling, and multithreading.
-- Advanced Java Concepts: Design patterns, Java Collections Framework, and Java 8 features like lambda expressions and streams.
-- Spring Framework: Introduction to Spring Boot, dependency injection, RESTful web services, and data persistence with Spring Data JPA.
-- Database Management: Working with relational databases, JDBC, and implementing CRUD operations.
-- Security: Implementing authentication and authorization mechanisms using Spring Security.
-- Testing: Writing unit and integration tests with JUnit and Mockito.
+- **Core Java Fundamentals**: Object-Oriented Programming (OOP) principles, exception handling, and multithreading.
+- **Advanced Java Concepts**: Design patterns, Java Collections Framework, and Java 8 features like lambda expressions and streams.
+- **Spring Framework**: Introduction to Spring Boot, dependency injection, RESTful web services, and data persistence with Spring Data JPA.
+- **Database Management**: Working with relational databases, JDBC, and implementing CRUD operations.
+- **Security**: Implementing authentication and authorization mechanisms using Spring Security.
+- **Testing**: Writing unit and integration tests with JUnit and Mockito.
  
 
 Note: The above topics are indicative and may vary based on the course progression and updates.
@@ -61,15 +61,25 @@ To explore the content of this repository:
     cd Whispering-Woods-Backend-Quest/
     ```
 
-3. Explore the Folders/Modules:
+3. Module Naming Conventions:
 
-    - <b>assignments/</b> Contains weekly assignments with problem statements and solutions.
+   To maintain clarity and organization, each module within this repository is prefixed based on its type:
+
+   - Assignments: Prefixed with asgmt- (e.g., asgmt-backend-api-bank)
+   - Projects: Prefixed with proj- (e.g., proj-ecommerce-platform)
+   - Homework: Prefixed with hw- (e.g., hw-algorithm-optimization)
+    
+   This naming convention helps in easily identifying the purpose of each module.
+
+4. Explore the Modules:
+
+   hw-bank/: Includes homework on a complete Bank program in Java
 
 ## About the Instructor
 [Chinmay Anand](https://www.udemy.com/user/chinmayanand2/) is a backend engineer with over five years of experience. Currently based in Japan, he works for one of the country's largest banks, utilizing Java and Kotlin in his daily tasks. Chinmay is passionate about real-time systems and has a diverse background, having collaborated with various Japanese companies and worked with multiple programming languages, including Go, C++, TypeScript, JavaScript, and PHP.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 <br/><br/>
 
