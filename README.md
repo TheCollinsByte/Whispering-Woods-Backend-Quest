@@ -44,3 +44,42 @@ The course is structured to provide a deep understanding of Java backend develop
  
 
 Note: The above topics are indicative and may vary based on the course progression and updates.
+
+## Getting Started
+
+To explore the content of this repository:
+
+1. Clone the Repository:
+
+    ```shell
+    git clone git@github.com:TheCollinsByte/Whispering-Woods-Backend-Quest.git
+    ```
+
+2. Navigate to the Project Directory:
+
+    ```shell
+    cd Whispering-Woods-Backend-Quest/
+    ```
+
+3. Explore the Folders/Modules:
+
+    - <b>assignments/</b> Contains weekly assignments with problem statements and solutions.
+
+## About the Instructor
+Chinmay Anand is a backend engineer with over five years of experience. Currently based in Japan, he works for one of the country's largest banks, utilizing Java and Kotlin in his daily tasks. Chinmay is passionate about real-time systems and has a diverse background, having collaborated with various Japanese companies and worked with multiple programming languages, including Go, C++, TypeScript, JavaScript, and PHP.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+<br/><br/>
+
+<div align="center">
+
+<strong>⭐ hit the star button if you found this useful ⭐</strong><br>
+
+<a href="https://github.com/TheCollinsByte/Whispering-Woods-Backend-Quest">Source</a>
+<a href="https://github.com/TheCollinsByte/Whispering-Woods-Backend-Quest">Source</a>
+| <a href="https://x.com/TheCollinsByte" target="_blank">Twitter </a>
+| <a href="http://www.linkedin.com/in/collins-boniface" target="_blank">LinkedIn </a>
+| <a href="mailto:collo@fastmail.com">Email</a>
+</div>
