@@ -1,25 +1,25 @@
 package com.thecollinsbyte.bank;
 
+import java.util.UUID;
+
 public class User {
-    private long id;
+    private UUID id;
     private String firstName;
     private String middleName;
     private String lastName;
-    private Account account;
 
-    public User(long id, String firstName, String middleName, String lastName, Account account) {
+    public User(UUID id, String firstName, String middleName, String lastName) {
         this.id = id;
         this.firstName = firstName;
         this.middleName = middleName;
         this.lastName = lastName;
-        this.account = account;
     }
 
-    public long getId() {
+    public UUID getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(UUID id) {
         this.id = id;
     }
 
@@ -47,21 +47,13 @@ public class User {
         this.lastName = lastName;
     }
 
-    public Account getAccount() {
-        return account;
-    }
-
-    public void setAccount(Account account) {
-        this.account = account;
-    }
-
     @Override
     public String toString() {
         return "User{" +
-                "firstName='" + firstName + '\'' +
+                "id=" + id +
+                ", firstName='" + firstName + '\'' +
                 ", middleName='" + middleName + '\'' +
                 ", lastName='" + lastName + '\'' +
-                ", account=" + account +
                 '}';
     }
 }
