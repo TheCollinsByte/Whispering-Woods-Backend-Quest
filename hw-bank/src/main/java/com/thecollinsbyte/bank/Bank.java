@@ -19,18 +19,22 @@ public class Bank {
     }
 
     // Create Account
-    public void createAccount(UUID id, String firstName, String middleName, String lastName) {
+    public Account createAccount(UUID id, String firstName, String middleName, String lastName) {
 
         User user = new User(id, firstName, middleName, lastName);
-        LOG.info("User Created Successfully: {}", user);
 
         Account account = new Account(user, 10);
-        LOG.info("Account Created Successfully: {}", account);
 
         accounts.put(user.getId(), account);
+
+        return accounts.get(id);
     }
 
     // Get Account
+    public Account getAccount(UUID id) {
+        return accounts.get(id);
+    }
+
     // Deposit Money
     // withdraw Money
     // Check Balance
