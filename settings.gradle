@@ -2,4 +2,5 @@ rootProject.name = 'Whispering-Woods-Backend-Quest'
 
 include 'hw-bank'
 include 'hw-challenge'
+include 'hw-hotel'
 include 'logback-config'
